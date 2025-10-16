@@ -1,0 +1,204 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="pervy"  tvg-logo="https://iptvx.one/picons/pervy.png" ,Первый канал HD
+http://85.112.115.51:8087/udp/238.2.49.234:1234
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rossia1"  tvg-logo="https://iptvx.one/picons/rossia1.png" ,Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="match-tv"  tvg-logo="https://iptvx.one/picons/match-tv.png" ,Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="ntv"  tvg-logo="http://epg.one/img2/162.png" ,НТВ
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="5kanal-ru"  tvg-logo="https://iptvx.one/picons/5kanal-ru.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="kultura"  tvg-logo="https://iptvx.one/picons/kultura.png"   tvg-name="Культура" audio-track="rus",Россия Культура
+http://178.163.0.63:4022/udp/234.0.0.202:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rossia-24"  tvg-logo="https://iptvx.one/picons/rossia-24.png" ,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="karusel"  tvg-logo="https://iptvx.one/picons/karusel.png"   audio-track="rus",Карусель
+http://178.163.0.63:4022/udp/234.0.0.203:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="otr"  tvg-logo="http://infolada.ru/iptv/icons/otr.png"   tvg-name="ОТР" audio-track="rus",ОТР
+http://178.163.0.63:4022/udp/234.0.0.208:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tvcentr"  tvg-logo="http://infolada.ru/iptv/icons/TVC.png"   tvg-name="ТВ_Центр" audio-track="rus",ТВЦ
+http://178.163.0.63:4022/udp/234.0.0.192:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rentv"  tvg-logo="http://infolada.ru/iptv/icons/RenTV.png"   tvg-name="РЕН_ТВ" audio-track="rus",РЕН ТВ
+http://178.163.0.63:4022/udp/234.0.0.240:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="spas"  tvg-logo="http://infolada.ru/iptv/icons/Spas.png"   tvg-name="Спас_ТВ" audio-track="rus",СПАС
+http://178.163.0.63:4022/udp/234.0.0.215:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="sts"  tvg-logo="http://infolada.ru/iptv/icons/STS.png"   tvg-name="СТС" audio-track="rus",СТС
+http://178.163.0.63:4022/udp/234.0.0.239:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="domashny"  tvg-logo="https://iptvx.one/picons/domashny.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tv3-ru"  tvg-logo="https://iptvx.one/picons/tv3-ru.png" ,ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="piatnica"  tvg-logo="http://epg.one/img2/1003.png"   catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="zvezda"  tvg-logo="http://infolada.ru/iptv/icons/Zvezda.png"   tvg-name="Звезда" audio-track="rus",Звезда
+http://178.163.0.63:4022/udp/234.0.0.237:2000
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="mir"  tvg-logo="https://iptvx.one/picons/mir.png" ,Мир
+http://194.158.222.36:6104
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tnt"  tvg-logo="https://iptvx.one/picons/tnt.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} ",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="mir"  tvg-logo="http://infolada.ru/iptv/icons/MuzTV.png"   tvg-name="МИР" audio-track="rus" tvg-name="МУЗ-ТВ" audio-track="rus",Мир
+http://178.163.0.63:4022/udp/234.0.0.96:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="mir-seriala"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Логотип_Бобра.png/1111px-Логотип_Бобра.png"   tvg-name="Бобер" audio-track="rus",Бобер
+http://178.163.0.63:4022/udp/234.0.0.103:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="kino-tv" ,Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000" ,viju TV1000 HD
+http://85.112.114.10:8087/udp/233.170.170.12:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000-action" ,viju TV1000 Action HD
+http://85.112.114.10:8087/udp/233.170.170.13:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское 
+http://85.112.114.10:8087/udp/233.170.170.14:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="vf-serialy-turcii"  tvg-logo="http://epg.one/img2/9226.png" ,VF Сериалы Турции
+https://tinyurl.com/SaSha-32/9123/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vf-western"  tvg-logo="http://epg.one/img2/9227.png" ,VF Вестерн
+https://tinyurl.com/SaSha-32/31553/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="9227"  tvg-logo="http://epg.one/img2/9227.png"   tvg-rec="0",VF Вестерн
+https://tinyurl.com/SaSha-32/31553/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vhs-ka"  tvg-logo="http://epg.one/img2/9065.png" ,VHS-ка HD
+https://tinyurl.com/SaSha-32/5006/index.m3u
+#EXTINF:-1  group-title="Кино"  tvg-id="109"  tvg-logo="http://epg.cdntv.online/img/109.png"   catchup="shift" catchup-days="3" timeshift="3", A1
+http://cdntv.online/high/47eurvkpm6/109.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="99"  tvg-logo="http://epg.cdntv.online/img/99.png"   catchup="shift" catchup-days="3" timeshift="3", Sony Sci-Fi
+http://cdntv.online/high/47eurvkpm6/99.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="506"  tvg-logo="http://epg.cdntv.online/img/506.png"   catchup="shift" catchup-days="3" timeshift="3", .Black
+http://cdntv.online/high/47eurvkpm6/506.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="87"  tvg-logo="http://epg.cdntv.online/img/87.png"   catchup="shift" catchup-days="3" timeshift="3", AMEDIA HIT HD
+http://cdntv.online/high/47eurvkpm6/87.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="88"  tvg-logo="http://epg.cdntv.online/img/88.png"   catchup="shift" catchup-days="3" timeshift="3", Amedia Premium HD
+http://cdntv.online/high/47eurvkpm6/88.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="denpobedy"  tvg-logo="http://epg.one/img2/2773.png" ,День Победы HD
+https://tinyurl.com/SaSha-32/5054/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="pobeda"  tvg-logo="http://epg.one/img2/2447.png" ,Победа
+https://tinyurl.com/SaSha-32/2003/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="amedia1"  tvg-logo="http://infolada.ru/iptv/icons/A1.png"   tvg-name="AMEDIA_1" audio-track="rus",A1
+http://178.163.0.63:4022/udp/234.0.0.155:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="amedia-hit"  tvg-logo="http://infolada.ru/iptv/icons/Amedia_hit.png"   tvg-name="Amedia_Hit" audio-track="rus",AMEDIA Hit
+http://178.163.0.63:4022/udp/234.0.0.169:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="amedia2"  tvg-logo="http://infolada.ru/iptv/icons/A2.png"   tvg-name="AMEDIA_2" audio-track="rus",A2
+http://178.163.0.63:4022/udp/234.0.0.184:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="trashtv"  tvg-logo="http://infolada.ru/iptv/icons/trash-hd.png"   tvg-name="Trash HD" audio-track="rus",Trash HD
+http://178.163.0.63:4022/udp/234.0.0.3:2000
+#EXTINF:-1  group-title="Кино"  tvg-logo="http://infolada.ru/iptv/icons/TV_XXI.png"   tvg-name="TV_XXI" audio-track="rus",TV_XXI
+http://178.163.0.63:4022/udp/234.0.0.187:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="domkino"  tvg-logo="http://infolada.ru/iptv/icons/Dom_kino.png"   tvg-name="Дом_кино" audio-track="rus" channelId="949508169694",Дом кино
+http://178.163.0.63:4022/udp/234.0.0.219:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="evrokino"  tvg-logo="http://infolada.ru/iptv/icons/Evrokino.png"   tvg-name="Еврокино" audio-track="rus",Еврокино
+http://178.163.0.63:4022/udp/234.0.0.176:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="kinopokaz"  tvg-logo="http://infolada.ru/iptv/icons/Kinopokaz.png"   tvg-name="Кинопоказ_SD" audio-track="rus",Кинопоказ
+http://178.163.0.63:4022/udp/234.0.0.209:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="kinoseria"  tvg-logo="http://infolada.ru/iptv/icons/kinoserija.gif"   tvg-name="КИНОСЕРИЯ" audio-track="rus",Киносерия
+http://178.163.0.63:4022/udp/234.0.0.119:2000
+#EXTINF:-1  group-title="Кино"  tvg-logo="http://infolada.ru/iptv/icons/moskow_doverie.png"   tvg-name="Москва__Доверие" audio-track="rus",Москва Доверие
+http://178.163.0.63:4022/udp/234.0.0.99:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="rodnoe-kino"  tvg-logo="http://infolada.ru/iptv/icons/rod_kino.png"   tvg-name="Родное_кино" audio-track="rus",Родное кино
+http://178.163.0.63:4022/udp/234.0.0.177:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="russky-bestseller"  tvg-logo="http://infolada.ru/iptv/icons/rus_bestseller.png"   tvg-name="Русский_бестселлер" audio-track="rus",Русский Бестселлер
+http://178.163.0.63:4022/udp/234.0.0.250:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="russky-illuzion"  tvg-logo="http://infolada.ru/iptv/icons/Russkij_Illjuzion.png"   tvg-name="Русский_Иллюзион" audio-track="rus",Русский Иллюзион
+http://178.163.0.63:4022/udp/234.0.0.178:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="russky-roman"  tvg-logo="http://infolada.ru/iptv/icons/rus_roman.png"   tvg-name="Русский_роман" audio-track="rus",Русский Роман
+http://178.163.0.63:4022/udp/234.0.0.224:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="kinomiks" ,Киномикс
+http://188.113.190.15/308/video.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="arsenaltv"  tvg-logo="http://epg.one/img2/2768.png" ,Арсенал HD
+https://tinyurl.com/SaSha-31/5044/index.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="che"  tvg-logo="http://infolada.ru/iptv/icons/che.png"   tvg-name="Че" audio-track="rus",Че
+http://178.163.0.63:4022/udp/234.0.0.218:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="super"  tvg-logo="http://infolada.ru/iptv/icons/subbota.png"   tvg-name="Супер" audio-track="rus",Суббота
+http://178.163.0.63:4022/udp/234.0.0.100:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="avto24"  tvg-logo="http://infolada.ru/iptv/icons/auto_24.gif"   tvg-name="Авто24_HD" audio-track="rus",Авто 24
+http://178.163.0.63:4022/udp/234.0.0.227:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="dikaya-oxota-hd"  tvg-logo="https://i.ibb.co/0XHRs4h/04ae9f3537063ac965be96d757ed53ac.png"   tvg-name="Дикая охота HD" audio-track="rus" tvg-name="Дикая_охота" audio-track="rus",Дикая охота HD
+http://178.163.0.63:4022/udp/234.0.0.11:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="oxota-i-rybalka"  tvg-logo="http://infolada.ru/iptv/icons/Oxota_i_rybalka.png"   tvg-name="Охота_и_рыбалка" audio-track="rus",Охота и Рыбалка
+http://178.163.0.63:4022/udp/234.0.0.230:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-logo="http://infolada.ru/iptv/icons/Tatar_tan.png"   tvg-name="ТНВ-планета" audio-track="rus",ТНВ Планета
+http://178.163.0.63:4022/udp/234.0.0.2:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="usadba"  tvg-logo="http://infolada.ru/iptv/icons/Usad7ba.png"   tvg-name="Усадьба" audio-track="rus",Усадьба
+http://178.163.0.63:4022/udp/234.0.0.220:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="belarus24"  tvg-logo="http://infolada.ru/iptv/icons/bel24.png"   tvg-name="Беларусь_24" audio-track="rus",Беларусь-24
+http://178.163.0.63:4022/udp/234.0.0.199:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="bolshaya-azia"  tvg-logo="http://infolada.ru/iptv/icons/big_azia.png"   tvg-name="Большая_Азия" audio-track="rus",Большая Азия
+http://178.163.0.63:4022/udp/234.0.0.10:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="vremia"  tvg-logo="http://infolada.ru/iptv/icons/Vremja.png"   tvg-name="ВРЕМЯ" audio-track="rus",Время
+http://178.163.0.63:4022/udp/234.0.0.225:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="zagorodny"  tvg-logo="http://infolada.ru/iptv/icons/Zagorodnyj.png"   tvg-name="Загородный" audio-track="rus",Загородный
+http://178.163.0.63:4022/udp/234.0.0.106:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="zdorovoe-tv"  tvg-logo="http://infolada.ru/iptv/icons/Zdorovoe_TV.png"   tvg-name="Здоровое_Телевидение" audio-track="rus",Здоровое ТВ
+http://178.163.0.63:4022/udp/234.0.0.221:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="kaleydoskop-tv"  tvg-logo="http://infolada.ru/iptv/icons/ntv-hit.png"   tvg-name="Калейдоскоп_ТВ" audio-track="rus" tvg-name="НТВ_Хит" audio-track="rus",Калейдоскоп ТВ
+http://178.163.0.63:4022/udp/234.0.0.236:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-logo="http://infolada.ru/iptv/icons/Sarafan_TV.png"   tvg-name="Сарафан_ТВ" audio-track="rus",Сарафан ТВ
+http://178.163.0.63:4022/udp/234.0.0.246:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="sovsek"  tvg-logo="http://infolada.ru/iptv/icons/Sover_henno__ekretno.png"   tvg-name="Совершенно_Секретно" audio-track="rus",Совершенно секретно
+http://178.163.0.63:4022/udp/234.0.0.185:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="soyuz"  tvg-logo="http://infolada.ru/iptv/icons/Sojuz.png"   tvg-name="Союз" audio-track="rus",Союз
+http://178.163.0.63:4022/udp/234.0.0.196:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="telekafe"  tvg-logo="http://infolada.ru/iptv/icons/Telekafe.png"   tvg-name="Телекафе" audio-track="rus",Телекафе
+http://178.163.0.63:4022/udp/234.0.0.249:2000
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="uspex"  tvg-logo="http://infolada.ru/iptv/icons/uspeh.gif"   tvg-name="Успех" audio-track="rus",Успех
+http://178.163.0.63:4022/udp/234.0.0.117:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="(no tvg-id)"  tvg-logo="https://i.imgur.com/xi351Fx.png"   tvg-name="Mult",Mult
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="(no tvg-id)"   tvg-name="Big Planet",Big Planet
+http://178.217.72.67:8080/big_planet/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="detsky-mir" ,Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="nickelodeon-ru" ,Nickelodeon
+http://ott.watch/stream/D17LBTRCERA/443.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="nick-jr" ,Nick Jr
+http://ott.watch/stream/D17LBTRCERA/220.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="solnce" ,Солнце
+http://ott.watch/stream/D17LBTRCERA/118.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="tiji" ,TiJi
+http://ott.watch/stream/D17LBTRCERA/111.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="mult" ,Мульт HD
+http://ott.watch/stream/D17LBTRCERA/232.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="multimuzyka" ,Мульт и музыка
+http://ott.watch/stream/D17LBTRCERA/82.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="jimjam" ,JimJam
+http://ott.watch/stream/D17LBTRCERA/150.m3u8
+#EXTINF:-1  group-title="Детские" ,Канал О!
+http://ott.watch/stream/D17LBTRCERA/60.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="ginger-hd" ,Капитан Фантастика HD
+http://ott.watch/stream/D17LBTRCERA/144.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="karusel" ,Карусель
+http://ott.watch/stream/D17LBTRCERA/120.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="sts-kids-hd" ,СТС Kids HD
+http://ott.watch/stream/D17LBTRCERA/197.m3u8
+#EXTINF:-1  group-title="Детские" ,В гостях у сказки HD
+http://ott.watch/stream/D17LBTRCERA/93.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="detkinoint-tviksel" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="mama" ,Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1  group-title="Детские" ,Мамонтëнок ТВ
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="mult" ,Мульт
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1  group-title="Детские"  tvg-id="mult" ,Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="radost-moya" ,Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="ryzhy" ,Рыжий
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="malysh" ,СуперГерои
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="nickelodeon-ru"  tvg-logo="http://infolada.ru/iptv/icons/Nickelodeon.png"   tvg-name="Nickelodeon" audio-track="rus",Nickelodeon
+http://178.163.0.63:4022/udp/234.0.0.153:2000
+#EXTINF:-1  group-title="Детские"  tvg-logo="http://infolada.ru/iptv/icons/Jim_Jam.png"   tvg-name="Мультиландия" audio-track="rus" tvg-name="JimJam" audio-track="rus",Мультмания
+http://178.163.0.63:4022/udp/234.0.0.152:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="v-gostiax-u-skazki"  tvg-logo="http://infolada.ru/iptv/icons/v_gostyh_u_skazki.png"   tvg-name="В_гостях_у_сказки" audio-track="rus",В гостях у сказки
+http://178.163.0.63:4022/udp/234.0.0.248:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="mama"  tvg-logo="http://infolada.ru/iptv/icons/mama.png"   tvg-name="Мама" audio-track="rus",Мама
+http://178.163.0.63:4022/udp/234.0.0.101:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="mult"  tvg-logo="http://only4.tv/ch/0141.png"   tvg-name="Мульт" audio-track="rus",Мульт HD
+http://178.163.0.63:4022/udp/234.0.0.15:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="ryzhy"  tvg-logo="http://infolada.ru/iptv/icons/rizii.png"   tvg-name="Рыжий" audio-track="rus",Рыжий
+http://178.163.0.63:4022/udp/234.0.0.243:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="solnce"  tvg-logo="http://infolada.ru/iptv/icons/Disney_Channel.png"   tvg-name="Канал_Disney" audio-track="rus",Солнце
+http://178.163.0.63:4022/udp/234.0.0.198:2000
+#EXTINF:-1  group-title="Детские"  tvg-id="detsky"  tvg-logo="http://infolada.ru/iptv/icons/unikum.png"   tvg-name="Детский" audio-track="rus",Уникум
+http://178.163.0.63:4022/udp/234.0.0.
+#EXT-X-ENDLIST
