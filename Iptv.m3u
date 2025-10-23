@@ -24,7 +24,7 @@ http://178.217.72.72/REN_TV/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="spas" ,Спас
 http://95.47.156.60:8000/play/12/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="sts" ,СТС
-http://87.246.54.249:8085/CTC/index.m3u8
+http://178.217.72.72/STS/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="domashny" ,Домашний
 http://178.217.72.72/Domashniy/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tv3-ru" ,ТВ3
@@ -36,7 +36,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="mir" ,МИР
 http://iptv46.mcx-ix.ru:8077/mir/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tnt" ,ТНТ
-http://87.246.54.249:8085/THT/index.m3u8
+http://178.217.72.72/TNT_HD/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="muztv"   tvg-name="Муз Тв", Муз Тв
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kino-tv" ,Кино ТВ
