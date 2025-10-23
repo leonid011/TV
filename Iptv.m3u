@@ -17,7 +17,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 http://95.47.156.60:8000/play/8/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="otr" ,ОТР
 http://178.217.72.72/OTR/index.m3u8
-#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tvcentr" ,ТВЦ
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tvcentr" ,ТВЦ 
 http://95.47.156.60:8000/play/10/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rentv" ,РЕН ТВ
 http://178.217.72.72/REN_TV/index.m3u8
