@@ -1,0 +1,82 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="pervy"  tvg-logo="https://iptvx.one/picons/pervy.png" ,Первый канал 
+http://85.112.115.51:8087/udp/238.2.49.234:1234
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rossia1"  tvg-logo="https://iptvx.one/picons/rossia1.png" ,Россия 1 
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="match-tv"  tvg-logo="https://iptvx.one/picons/match-tv.png" ,Матч!
+http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="ntv"  tvg-logo="http://epg.one/img2/162.png" ,НТВ
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="5kanal-ru" ,ПЯТЫЙ КАНАЛ
+http://95.47.156.60:8000/play/5/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="kultura" ,РОССИЯ К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rossia-24"  tvg-logo="https://iptvx.one/picons/rossia-24.png" ,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="karusel" ,КАРУСЕЛЬ
+http://95.47.156.60:8000/play/8/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="otr" ,ОТР
+http://178.217.72.72/OTR/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tvcentr" ,ТВЦ
+http://95.47.156.60:8000/play/10/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="rentv" ,РЕН ТВ
+http://178.217.72.72/REN_TV/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="spas" ,Спас
+http://95.47.156.60:8000/play/12/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="sts" ,СТС
+http://87.246.54.249:8085/CTC/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="domashny" ,Домашний
+http://178.217.72.72/Domashniy/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tv3-ru" ,ТВ3
+http://178.217.72.72/TV3/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="piatnica" ,Пятница
+http://178.217.72.72/Pyatnitsa/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="zvezda" ,Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="mir" ,МИР
+http://iptv46.mcx-ix.ru:8077/mir/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="tnt" ,ТНТ
+http://87.246.54.249:8085/THT/index.m3u8
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="muztv"   tvg-name="Муз Тв", Муз Тв
+http://radio.tvs.by:8088/MuzTV/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kino-tv" ,Кино ТВ
+http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vip-premiere" , VIJU+ PREMIERE HD
+http://192.162.64.99:5200/play/a02f/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vip-megahit" ,VIJU+ MEGAHIT HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vip-comedy" , VIJU+ COMEDY HD
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="vip-serial" , VIJU+ SERIAL HD
+http://91.194.191.241:8081/chid40/mono.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000" ,viju TV1000 HD
+http://85.112.114.10:8087/udp/233.170.170.12:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000-action" ,viju TV1000 Action HD
+http://85.112.114.10:8087/udp/233.170.170.13:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское 
+http://85.112.114.10:8087/udp/233.170.170.14:58631
+#EXTINF:-1  group-title="Кино"  tvg-id="nst" ,НСТ
+http://iptv46.mcx-ix.ru:8077/nstv/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinouzhas" , Киноужас
+http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinopremiera-hd" ,Кинопремьера 
+http://iptv46.mcx-ix.ru:8077/premiera/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinosemiya" ,Киносемья
+http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinoxit" ,КИНОХИТ
+http://iptv46.mcx-ix.ru:8077/kinohit/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinomiks" ,КИНОМИКС
+http://iptv46.mcx-ix.ru:8077/kinomix/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="kinokomedia" ,Кинокомедия
+http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="nashe-novoe-kino" ,НАШЕ НОВОЕ КИНО
+http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="muzhskoe-kino" ,Мужское кино 
+http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="mir-seriala"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Логотип_Бобра.png/1111px-Логотип_Бобра.png"   tvg-name="Бобер" audio-track="rus",Бобер
+http://178.163.0.63:4022/udp/234.0.0.103:2000
+#EXTINF:-1  group-title="Кино"  tvg-id="dikaya-oxota-hd" ,Дикая охота 
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1  group-title="Кино"  tvg-id="dikaya-rybalka-hd" ,Дикая рыбалка 
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXT-X-ENDLIST
