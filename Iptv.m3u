@@ -23,7 +23,7 @@ http://95.47.156.60:8000/play/10/index.m3u8
 http://178.217.72.72/REN_TV/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="spas" ,Спас
 http://95.47.156.60:8000/play/12/index.m3u8
-#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="sts" ,СТС
+#EXTINF:-1  group-title="Федеральные каналы"  tvg-id="sts" ,СТС HD
 http://178.217.72.72/STS/index.m3u8
 #EXTINF:-1  group-title="Федеральные каналы"  tvg-id="domashny" ,Домашний
 http://178.217.72.72/Domashniy/index.m3u8
