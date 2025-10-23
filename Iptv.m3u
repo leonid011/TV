@@ -73,7 +73,7 @@ http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
 http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="muzhskoe-kino" ,Мужское кино 
 http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="mir-seriala"  ,Бобер
+#EXTINF:-1  group-title="Кино"  tvg-id="bobior"  ,Бобер
 http://178.163.0.63:4022/udp/234.0.0.103:2000
 #EXTINF:-1  group-title="Кино"  tvg-id="dikaya-oxota-hd" ,Дикая охота 
 http://217.21.34.160:38007/dikayaohotahd/index.m3u8
