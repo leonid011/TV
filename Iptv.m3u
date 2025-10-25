@@ -58,7 +58,7 @@ http://85.112.114.10:8087/udp/233.170.170.14:58631
 #EXTINF:-1  group-title="Кино"  tvg-id="nst" ,НСТ
 http://iptv46.mcx-ix.ru:8077/nstv/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kinouzhas" , Киноужас
-https://mhd128.iptv2022.com/p/bUfsfMPyaTqr7fpkJw_Wbw,1761461600/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kinopremiera-hd" ,Кинопремьера 
 http://iptv46.mcx-ix.ru:8077/premiera/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kinosemiya" ,Киносемья
