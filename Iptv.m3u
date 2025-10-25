@@ -42,7 +42,7 @@ http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kino-tv" ,Кино ТВ
 http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vip-premiere" , VIJU+ PREMIERE
-http://192.162.64.99:5200/play/a02f/index.m3u8
+http://87.246.54.249:8085/Viju_Premiere/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vip-megahit" ,VIJU+ MEGAHIT
 http://46.8.46.14/vipmegahit/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="vip-comedy" , VIJU+ COMEDY 
